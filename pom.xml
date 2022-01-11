@@ -17,6 +17,12 @@
         <plugin.author>ReflixHD</plugin.author>
         <plugin.website>https://</plugin.website>
         <plugin.version>${project.version}</plugin.version>
+             
+             
+        
+        <sonar.organization>alphakingz</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 
         <build.number>-SNAPSHOT</build.number>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
